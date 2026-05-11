@@ -2,6 +2,6 @@ OUtline -:
 
 S.E. Hinton's The Outsiders follows teenager Ponyboy Curtis as he navigates the violent rivalry between his lower-class greaser gang and the wealthy Socs in 1960s Oklahoma. After a fatal altercation with a Soc, Ponyboy and his friend Johnny go into hiding, leading to a dramatic rescue of children from a burning church and subsequent, tragic losses for their group. Ultimately, the novel explores themes of social divide, grief, and the loss of innocence as Ponyboy finds a way to process his trauma through writing.
 
-Add . command use to add multiple changes at once without naming it each.
+Add . command use To add multiple changes at once without naming it each.
 
 Breaking up chapter 1
